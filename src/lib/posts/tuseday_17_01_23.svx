@@ -1,0 +1,11 @@
+---
+title: Tuseday 
+date: "2023-17-01"
+---
+
+Tuseday 17-01-23
+
+Idag har jag fixat klar nästan allt visuellt, jag har ändrat bakgrund och lagt till borders. JAg ändra också bild på "clickern".
+Ett problem jag stötte på var när jag skulle göra bordern till headern, bordern ville bara visas ovanför och nedanför headern. Men tillslut löste jag det med hjälp av lisa och en sida på internet.
+
+Men något jag inte än gjort är förändringar i själva spelet, jag har inte riktigt förstått hur man gör. Men jag tänker göra det nästa lektion.

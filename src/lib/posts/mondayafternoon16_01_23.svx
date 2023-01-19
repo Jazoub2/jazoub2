@@ -1,0 +1,17 @@
+---
+title: Monday Afernoon 
+Date: "2023-16-01"
+---
+
+Monday afternoon 16-01-23
+
+Idag så började jag med att ändra bakgrundsbild på min clicker, till en bild på en windowssymbol, men det gick inte så bra eftersom bilden fick en konstig border och passsade inte in riktigt.
+Så jag ändrade mig, och valde en anna bild. 
+
+Sedan så försökte jag ändra bakgrundsbild på hela sidan men bilden blev för liten,  tror jag måste ändra något så att den fyller hela sidan. 
+JAg löste problemet, jag ändrade storleken på bilden till 100% "background-size: 100%"
+
+Sedan försökte jag göra en regnbågsborder på min Head ruler, mitt första problem var att bilden inte visades eftersom det var bara bordern som visades. Sedan var mitt problem att bilden var för kort men rätt höjd.
+Jag fick hjälp av lisa och fixade det genom att ge två värden till bakgrundsstorleken, "background-size: 100% 100%,"
+
+Efter det så har jag försökt fixa all bakgrund till rymden, men jag har haft lite problem med att hitta vart jag ska ändra koden. 

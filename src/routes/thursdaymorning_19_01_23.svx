@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+
+if (upgrade.worker && clicks) {
+worker_multiplier = worker_multiplier * 1;
+workers = [upgrade.name, ...workers];
+/* start "clicking" every 1000 ms */
+setInterval(increment, 1000);
+clicks -= upgrade.cost;
